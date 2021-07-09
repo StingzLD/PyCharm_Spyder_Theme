@@ -1,0 +1,32 @@
+{
+  "name": "Spyder Theme",
+  "dark": true,
+  "author": "StingzLD",
+  "editorScheme": "/Spyder_Theme.xml",
+  "colors": {
+    "background_background": "#19232d",
+    "background_side_areas": "#222b35",
+    "text_normal_text": "#ffffff",
+    "text_comment": "#999999",
+    "text_string": "#b0e686",
+    "text_number": "#faed5c",
+    "text_keyword": "#c670e0",
+    "text_builtin": "#fab16c",
+    "text_definition": "#57d6e4",
+    "text_instance": "#ee6772",
+    "highlight_current_cell": "#292d3e",
+    "highlight_current_line": "#3a424a",
+    "highlight_occurrence": "#4734b3",
+    "highlight_matched_parens": "#0bbe0b",
+    "highlight_unmatched_parens": "#ff4340",
+    "highlight_link": "#179ae0"
+  },
+  "ui": {
+    "*": {
+      "background": "background_background",
+      "foreground": "background_side_areas",
+
+      "textText": "text_normal_text",
+    }
+  }
+}DCDCAA

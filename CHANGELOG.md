@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# PyCharm_Spyder_Theme Changelog
+# Spyder Theme Changelog
 
 ## [Unreleased]
 ### Added
